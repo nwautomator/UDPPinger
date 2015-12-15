@@ -16,5 +16,5 @@ Setup and testing
 Notes
 =====
 - The server can induce random packet loss if you pass the -R argument
-- The client has many options. Run ```python udpping.py -h`` for details
+- The client has many options. Run ``python udpping.py -h`` for details
 - The latest version of this repository is always here: `https://github.com/nwautomator/UDPPinger`
